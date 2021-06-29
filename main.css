@@ -370,6 +370,7 @@ header > nav .active > a::before {
     height: 250px;
 
     background-color: #0d0a12;
+    overflow:hidden;
     padding: 25px;
     width: 25%;
 
