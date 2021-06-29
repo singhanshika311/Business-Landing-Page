@@ -26,6 +26,10 @@
         padding: 20px;
         box-sizing: border-box;
     }
+    .character-bio{
+        overflow: hidden;
+
+    }
 
     #home > .slide > img {
         width: 100%;
@@ -155,6 +159,10 @@
         padding: 20px;
         box-sizing: border-box;
     }
+    .character-bio{
+        overflow: hidden;
+
+    }
 
     #character-profile .character {
         margin-bottom: 90px;
@@ -250,6 +258,10 @@
         width: 100%;
         padding: 20px;
         box-sizing: border-box;
+    }
+    .character-bio{
+        overflow: hidden;
+
     }
     .season > .episodes,
     .season > .episodes > .episode {
