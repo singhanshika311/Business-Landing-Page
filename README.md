@@ -1,4 +1,4 @@
-# The-uplift-project-bootcamp
+# The-upskill community-bootcamp
 this simple static website is created for 15 days web development bootcamp organised by the upskill community
 
 <h4>languages</h4>
